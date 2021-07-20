@@ -1,0 +1,9 @@
+.DS_Store
+
+# reports
+.scannerwork
+*.out
+*.json
+
+# binary
+helloworld
